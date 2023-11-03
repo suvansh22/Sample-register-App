@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## how to run this project
+  Create `.env` file in the root of the project with content of
+  ```javascript
+  DB_URI='your mongo connection string'// Get it here : http://www.mongodb.com/cloud/atlas
+  ```
+
 ## Getting Started
 
 First, run the development server:
